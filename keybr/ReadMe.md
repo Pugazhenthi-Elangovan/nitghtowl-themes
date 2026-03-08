@@ -10,4 +10,7 @@
 <img src="images/global-settings.png" alt="Image of Global Adjustments" width="300">
 </p>
 
-## ... Happy Typing ... :bye
+<div align="center">
+## ... Happy Typing ...  
+### Bye..👋
+</div>
